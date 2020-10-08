@@ -1,0 +1,7 @@
+D:\Personal\Programming\C#\GatheringUnityAsset\GatheringAssets\GatheringAssets\bin\Debug\GatheringAssets.exe.config
+D:\Personal\Programming\C#\GatheringUnityAsset\GatheringAssets\GatheringAssets\bin\Debug\GatheringAssets.exe
+D:\Personal\Programming\C#\GatheringUnityAsset\GatheringAssets\GatheringAssets\bin\Debug\GatheringAssets.pdb
+D:\Personal\Programming\C#\GatheringUnityAsset\GatheringAssets\GatheringAssets\obj\Debug\GatheringAssets.csprojAssemblyReference.cache
+D:\Personal\Programming\C#\GatheringUnityAsset\GatheringAssets\GatheringAssets\obj\Debug\GatheringAssets.csproj.CoreCompileInputs.cache
+D:\Personal\Programming\C#\GatheringUnityAsset\GatheringAssets\GatheringAssets\obj\Debug\GatheringAssets.exe
+D:\Personal\Programming\C#\GatheringUnityAsset\GatheringAssets\GatheringAssets\obj\Debug\GatheringAssets.pdb
